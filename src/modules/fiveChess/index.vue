@@ -52,6 +52,7 @@
             goodGame:false,//判断游戏是否结束
             historyRecordList:[],//游戏记录
             centerImg:'@/assets/images/fiveChess/bg.png',
+            // 白子黑子
             whitePlayer:{
                 userName:'小冯',
                 headerURL:'https://cube.elemecdn.com/9/c2/f0ee8a3c7c9638a54940382568c9dpng.png'
